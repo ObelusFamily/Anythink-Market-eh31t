@@ -21,6 +21,7 @@ DOCUMENTATION:
      You can make the changes to the branch you have created.
    - git add fileName => Add the modified files to the staging area.
    - git commit -m "message" => You can commit the changes and type in a brief description of the changes you made in the files.
+   - git push origin branchName => You can push the branch to the github
 
    Now you can make the pull request and once it is reviewed and got permission you can merge pull request.
 
